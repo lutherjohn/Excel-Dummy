@@ -1,2 +1,2 @@
 # Excel-Dummy
-A dummy for data analysis using python
+A dummy data files for data analysis using python 3. 
