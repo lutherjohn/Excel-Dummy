@@ -11,7 +11,8 @@ csv_url   = 'https://github.com/lutherjohn/Excel-Dummy/blob/master/student.csv?r
 excel_df = pd.read_excel(excel_url)
 excel = excel_df.head(3)
 
-df = pd.read_csv(csv_url)
-w = df.head(3)
+csv_df = pd.read_csv(csv_url)
+csv = csv_df.head(4)
 
-print(excel)
+print(csv)
+#print(excel)
